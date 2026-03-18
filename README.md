@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<# 💫 About Me:
-🧠 AI Product Engineer building intelligent systems with LLMs and real-world data  <br>🎓 MS in Management of Technology @ NYU Tandon  <br>🚀 I build AI products — RAG systems, agentic workflows, and full-stack AI apps  <br>🛠️ Turning messy datasets into production-ready AI tools people actually use  <br>🌍 Interested in applied AI, developer tools, and intelligent automation  <br>💬 Ask me about: LLM integration, RAG pipelines, vector databases, AI product dev  <br>⚡ Fun fact: I enjoy making cover songs
+💫 About Me:
+🧠 AI Product Engineer building intelligent systems with LLMs and real-world data  <br>🎓 MS in Management of Technology @ NYU Tandon  <br>🚀 I build AI products — RAG systems, agentic workflows, and full-stack AI apps  <br>🛠️ Turning messy datasets into production-ready AI tools people actually use  <br>🌍 Interested in applied AI, developer tools, and intelligent automation <br> <br> <br>⚡ Fun fact: I enjoy making cover songs
 
 
 # 💻 Tech Stack:
